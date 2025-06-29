@@ -3,7 +3,7 @@
 
 This project is a comprehensive data analysis of a fashion retail store's performance using Python and pandas. It covers sales trends, customer behavior, product performance, and business insights based on transactional data.
 
-![Retail Analysis Banner]([https://via.placeholder.com/800x200.png?text=Fashion+Retail+Sales+Analysis](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.intellicus.com%2Fretail-analytics%2F&psig=AOvVaw3mrXci7mPoJCK-FC7rTGfi&ust=1751295013160000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNjohbzwlo4DFQAAAAAdAAAAABAE))
+![Retail Analysis Banner](https://www.intellicus.com/wp-content/uploads/2021/02/In-store-Analytics.svg)
 
 ## 🔍 Key Features
 - ✅ Data cleaning (handling missing values, fixing date formats)

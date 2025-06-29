@@ -35,17 +35,6 @@ Retail sales data with ~3,400 rows and 7 columns, including:
 - Payment Method
 - Month
 
-## 📌 Project Structure
-```
-├── data/
-│   └── Fashion_Retail_Sales.csv
-├── notebook/
-│   └── fashion_retail_analysis.ipynb
-├── images/
-│   └── charts and graphs used in the project
-└── README.md
-```
-
 ## 🚀 How to Run
 1. Clone this repo
 2. Install dependencies: `pip install -r requirements.txt`
